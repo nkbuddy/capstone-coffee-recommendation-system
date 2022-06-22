@@ -13,8 +13,13 @@ We’ve reached peak coffee culture in America. While your local coffee shop is 
   It has a lot of missing values, different currency, and units.<br>
 3.using Linear Regression to study the correlation between price and coffee score<br>
 4.using NLP analysis what is the coffee taste like<br>
+<img src="images/COFFEE_WHEEL.PNG" width="500" height="500">
 ## Results
-
+<img src="images/readme_corr.PNG" width="500" height="500">
+the hishest correlate to 
+<img src="images/readme_nlp.PNG" width="500" height="500">
+<img src="images/readme_score.PNG" width="500" height="500">
+<img src="images/readme_ols_model.PNG" width="500" height="500">
 ## Next Step
 Finally, a few things were not considered when building the engine and they should deserve some attention:<br>
 <li>
