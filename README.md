@@ -1,6 +1,8 @@
 # capstone-coffee-recommendation
 ## Project Scope
-coffee is a great start morning beverage. 
+There’s a dizzying array of coffees out there.
+Where to start? With a short quiz, Coffee Match
+finds the coffees that will be beautiful to you.
 ## Procedure and Project Overview
 
 1.collecting the data<br>
