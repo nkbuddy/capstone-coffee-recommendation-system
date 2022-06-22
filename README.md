@@ -14,3 +14,13 @@ We’ve reached peak coffee culture in America. While your local coffee shop is 
 3.using Linear Regression to study the correlation between price and coffee score<br>
 4.using NLP analysis what is the coffee taste like<br>
 ## Results
+## Next Step
+Finally, a few things were not considered when building the engine and they should deserve some attention:<br>
+<li>
+The washing technique and roaster location of the coffee was not checked. In fact, this could be important to affect coffee quality.<br>
+<li>
+another point concerns the replacement of the keywords. In some cases, it was shown that the flavor had a different meaning than the original word(green tea flavor breaks down to green and tea flavor). Only 67 flavors were defined.<br>
+<li>
+The gap between review date and roasted date. The longer the coffee sits inside the package, the quality becomes wost.<br>
+
+Next step would be creating a SVD model to let people rate the coffee bean and genarate a new recommandation base on the score.
