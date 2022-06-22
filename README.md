@@ -1,8 +1,6 @@
 # capstone-coffee-recommendation
 ## Project Scope
-There’s a dizzying array of coffees out there.
-Where to start? With a short quiz, Coffee Match
-finds the coffees that will be beautiful to you.
+We’ve reached peak coffee culture in America. While your local coffee shop is perfect for a mid-afternoon pick-me-up, the very best coffee in America is definitely worth traveling for. With plenty of brunch spots and bakeries to get your morning fix, we’re after the slow, loving pour-overs, the iconic America coffee houses and those that do something absolutely extraordinary with their joe.
 ## Procedure and Project Overview
 
 1.collecting the data<br>
