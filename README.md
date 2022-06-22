@@ -1,4 +1,4 @@
-# capstone-coffee-recommendation-
+# capstone-coffee-recommendation
 ## Project Scope
 coffee is a great start morning beverage. 
 ## Procedure and Project Overview
