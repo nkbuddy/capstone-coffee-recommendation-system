@@ -28,6 +28,7 @@ I maked this app by using jupyter widgets.
 Let's find a coffee taste like vnillin. The coffee is CBD Coffee Dark Roast.
 <img src="images/example_app2.png" width="400" height="200">
 The top five similar coffee are Ethiopia Guji Odo Shakiso, Kona Naturals, Diima #9 Ethiopia Natural, Ethiopia Sidama Naia Bomb Natural Vertical Reserve, and Naturals With Attitude.
+
 ## Next Step
 
 Finally, a few things were not considered when building the engine and they should deserve some attention:<br>
