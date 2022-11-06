@@ -20,7 +20,6 @@ We’ve reached peak coffee culture in America. While your local coffee shop is 
 the highest correlate to coffee score is acidity, it was .78. As observed,  
 <img src="images/readme_nlp.PNG" width="500" height="500">
 <img src="images/readme_score.PNG" width="500" height="500">
-<img src="images/readme_ols_model.PNG" width="500" height="500">
 
 ## Next Step
 
