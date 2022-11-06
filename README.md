@@ -21,6 +21,11 @@ the highest correlate to coffee score is acidity, it was .78. As observed,
 <img src="images/readme_nlp.PNG" width="500" height="500">
 <img src="images/readme_score.PNG" width="500" height="500">
 
+## The App
+<img src="images/coffee_app.png" width="800" height="500">
+<img src="images/example_app1.png" width="300" height="500">
+<img src="images/example_app2.png" width="400" height="200">
+
 ## Next Step
 
 Finally, a few things were not considered when building the engine and they should deserve some attention:<br>
