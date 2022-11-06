@@ -23,9 +23,11 @@ the highest correlate to coffee score is acidity, it was .78. As observed,
 
 ## The App
 <img src="images/coffee_app.png" width="800" height="500">
+I maked this app by using jupyter widgets.
 <img src="images/example_app1.png" width="300" height="500">
+Let's find a coffee taste like vnillin. The coffee is CBD Coffee Dark Roast.
 <img src="images/example_app2.png" width="400" height="200">
-
+The top five similar coffee are Ethiopia Guji Odo Shakiso, Kona Naturals, Diima #9 Ethiopia Natural, Ethiopia Sidama Naia Bomb Natural Vertical Reserve, and Naturals With Attitude.
 ## Next Step
 
 Finally, a few things were not considered when building the engine and they should deserve some attention:<br>
