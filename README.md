@@ -4,7 +4,7 @@
 We’ve reached peak coffee culture in America. While your local coffee shop is perfect for a mid-afternoon pick-me-up, the very best coffee in America is definitely worth traveling for. With plenty of brunch spots and bakeries to get your morning fix, we’re after the slow, loving pour-overs, the iconic America coffee houses and those that do something absolutely extraordinary with their joe.
 
 ## Technology in this project
-pandas, seaborn, numpy, matplotlib, nltk, sklearn, ipywidgets, CountVectorizer
+pandas, seaborn, numpy, matplotlib, nltk, sklearn, ipywidgets, CountVectorizer, requests, BeautifulSoup 
 
 ## Procedure and Project Overview
 
